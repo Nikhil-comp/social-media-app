@@ -1,0 +1,38 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+
+}
+.content{
+    width: 100%;
+}
+.sidebar{
+    height: 700px;
+}
+.footer{
+    min-width: 100%;
+    
+ }
+.Post-style{
+    margin: 20px;
+}
+.tags{
+    margin-left: 7px;
+}
+.Post-card{
+    width: 30rem;
+    margin: 20px;
+}
+.reactions{
+    width: 100%;
+    margin-top:20px ;
+    margin-left: 10px;
+}
+.create-post{
+    margin: 20px;
+    width: 80%;
+}
